@@ -1,6 +1,6 @@
 <?php
 
-
+echo"sdfsfsf";
 return["host"=>"localhost",
     "db"=>"posts",
     "login"=>"root",
